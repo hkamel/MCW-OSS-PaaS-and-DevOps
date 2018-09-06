@@ -1,4 +1,4 @@
-# OSS PaaS and DevOps
+# Open Source and Platform as Service and DevOps
 
 Best For You Organics Company is one of the leading online health food suppliers in North America, serving customers in Canada, Mexico, and the United States. They launched their highly-successful e-commerce website, which sells subscriptions to their meal service, in 2016, and have been steadily increasing their subscriber-base since. Their service is tailored towards working professionals, who want convenient, reliable access to healthy meal choices, and pre-packaged recipes, without having to speed too much time preparing the meals.
 
